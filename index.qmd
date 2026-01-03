@@ -1,25 +1,11 @@
 ---
-title: "Lorenzo Nava"
+title: Hazard Systems Research Group
 page-layout: full
 ---
 
-<div class="hero">
-  <span class="pill">AI+ Senior Fellow</span>
-  <h1>Hello, I'm Lorenzo.</h1>
-  <p>I work at the intersection of AI systems and science. I lead and collaborate on research, build tools, and mentor teams.</p>
-</div>
+## AI-enabled multihazard forecasting, early warning systems, and response
 
-<div class="cards">
-  <div class="card">
-    <h3>Research</h3>
-    <p>Safety, alignment, and scientific applications of machine learning.</p>
-  </div>
-  <div class="card">
-    <h3>Open-source</h3>
-    <p>Libraries and datasets to accelerate reproducible research.</p>
-  </div>
-  <div class="card">
-    <h3>Speaking & Mentoring</h3>
-    <p>Talks, tutorials, and advising for teams and students.</p>
-  </div>
-</div>
+The **Hazard Systems Research Group (HSRG)** conducts research on the development and application
+of artificial intelligence methods to understand, forecast, and manage complex hazard systems.
+Our work spans multihazard forecasting, early warning systems, and decision support for
+emergency response, with the goal of improving resilience to natural and anthropogenic hazards.

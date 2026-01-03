@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Hazard Systems Research Group"
-  description: "AI-enabled modelling of multihazard risk and resilience"
+  description: "AI-enabled multihazard forecasting, early warning systems, and response"
   navbar:
     logo: assets/logo.png
     right:
