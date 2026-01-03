@@ -11,7 +11,7 @@ website:
       - text: About
         href: about.qmd
       - text: People
-        href: about.qmd
+        href: people.qmd
       - text: Publications
         href: publications.qmd
       - text: Projects
