@@ -1,4 +1,4 @@
-![](assets/hero.jpg){.hero-banner}
+![](assets/hero.png){.hero-banner}
 
 ---
 title: "Hazard Systems Research Group"
