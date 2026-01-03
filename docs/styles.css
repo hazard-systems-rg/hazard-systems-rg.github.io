@@ -8,3 +8,27 @@
 .card { padding: 1rem; border-radius: 1rem; box-shadow: 0 10px 30px rgba(0,0,0,.06); }
 .pill { display:inline-block; padding:.2rem .6rem; border-radius:999px; background:var(--accent); color:white; font-size:.8rem; }
 footer { margin-top: 3rem; font-size: .9rem; opacity: .7; }
+
+.hero {
+  padding: 3.5rem 0 2rem 0;
+}
+
+.hero h1 {
+  letter-spacing: -0.02em;
+}
+
+.hero p {
+  max-width: 70ch;
+}
+
+.cards .card h3 {
+  margin-top: 0;
+}
+
+.navbar-brand img {
+  max-height: 34px;
+}
+
+.quarto-title-banner {
+  display: none;
+}

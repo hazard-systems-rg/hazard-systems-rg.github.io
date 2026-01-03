@@ -1,11 +1,36 @@
 ---
-title: Hazard Systems Research Group
+title: "Hazard Systems Research Group"
 page-layout: full
 ---
 
-## AI-enabled multihazard forecasting, early warning systems, and response
+<div class="hero">
+  <span class="pill">King’s College London</span>
+  <h1>Hazard Systems Research Group (HSRG)</h1>
+  <p><strong>AI-enabled multihazard forecasting, early warning systems, and response.</strong></p>
+  <p>
+    We develop methods and tools that help anticipate complex hazard events, support effective warning,
+    and improve decision-making for response and resilience.
+  </p>
+</div>
 
-The **Hazard Systems Research Group (HSRG)** conducts research on the development and application
-of artificial intelligence methods to understand, forecast, and manage complex hazard systems.
-Our work spans multihazard forecasting, early warning systems, and decision support for
-emergency response, with the goal of improving resilience to natural and anthropogenic hazards.
+<div class="cards">
+  <div class="card">
+    <h3>Multihazard Forecasting</h3>
+    <p>AI models for interacting hazards, cascading effects, uncertainty, and real-time prediction.</p>
+  </div>
+
+  <div class="card">
+    <h3>Early Warning Systems</h3>
+    <p>From signals to actionable warnings: detection, thresholds, alerts, and communication workflows.</p>
+  </div>
+
+  <div class="card">
+    <h3>Response & Decision Support</h3>
+    <p>Tools that connect forecasts and warnings to operational choices, prioritization, and impact reduction.</p>
+  </div>
+</div>
+
+## Working with us
+
+- Interested in a PhD / postdoc / collaboration? See [Join Us](join-us.qmd).
+- For enquiries: **lorenzo.nava@kcl.ac.uk**

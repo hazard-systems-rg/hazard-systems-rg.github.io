@@ -18,14 +18,49 @@
     "href": "index.html",
     "title": "Hazard Systems Research Group",
     "section": "",
-    "text": "The Hazard Systems Research Group (HSRG) conducts research on the development and application of artificial intelligence methods to understand, forecast, and manage complex hazard systems. Our work spans multihazard forecasting, early warning systems, and decision support for emergency response, with the goal of improving resilience to natural and anthropogenic hazards."
+    "text": "King’s College London\n\n\nAI-enabled multihazard forecasting, early warning systems, and response.\n\n\nWe develop methods and tools that help anticipate complex hazard events, support effective warning, and improve decision-making for response and resilience."
   },
   {
-    "objectID": "index.html#ai-enabled-multihazard-forecasting-early-warning-systems-and-response",
-    "href": "index.html#ai-enabled-multihazard-forecasting-early-warning-systems-and-response",
+    "objectID": "index.html#working-with-us",
+    "href": "index.html#working-with-us",
     "title": "Hazard Systems Research Group",
+    "section": "Working with us",
+    "text": "Working with us\n\nInterested in a PhD / postdoc / collaboration? See Join Us.\nFor enquiries: lorenzo.nava@kcl.ac.uk"
+  },
+  {
+    "objectID": "join-us.html",
+    "href": "join-us.html",
+    "title": "Join Us",
     "section": "",
-    "text": "The Hazard Systems Research Group (HSRG) conducts research on the development and application of artificial intelligence methods to understand, forecast, and manage complex hazard systems. Our work spans multihazard forecasting, early warning systems, and decision support for emergency response, with the goal of improving resilience to natural and anthropogenic hazards."
+    "text": "We welcome collaborators and applicants interested in AI-enabled multihazard forecasting, early warning systems, and response."
+  },
+  {
+    "objectID": "join-us.html#what-we-work-on",
+    "href": "join-us.html#what-we-work-on",
+    "title": "Join Us",
+    "section": "What we work on",
+    "text": "What we work on\n\nMultihazard and cascading event modelling\nMachine learning for hazard detection and forecasting\nUncertainty-aware prediction and evaluation\nEnd-to-end warning pipelines and decision support\nOpen tools, reproducible science, and real-world impact"
+  },
+  {
+    "objectID": "join-us.html#who-we-are-looking-for",
+    "href": "join-us.html#who-we-are-looking-for",
+    "title": "Join Us",
+    "section": "Who we are looking for",
+    "text": "Who we are looking for\n\nPhD / MSc students\nStrong quantitative background (e.g., ML, statistics, physics, engineering, geoscience) and interest in hazards/resilience.\n\n\nPostdocs\nEvidence of independent research, strong writing, and a clear agenda aligned with our themes.\n\n\nResearch software / engineering\nExperience with ML tooling, data pipelines, and reproducibility."
+  },
+  {
+    "objectID": "join-us.html#how-to-reach-out",
+    "href": "join-us.html#how-to-reach-out",
+    "title": "Join Us",
+    "section": "How to reach out",
+    "text": "How to reach out\nEmail lorenzo.nava@kcl.ac.uk with: - a short paragraph describing your interest, - a CV, - (optional) a link to papers / GitHub, - (optional) 1–2 project ideas."
+  },
+  {
+    "objectID": "join-us.html#funding",
+    "href": "join-us.html#funding",
+    "title": "Join Us",
+    "section": "Funding",
+    "text": "Funding\nIf you already have (or are pursuing) funding, mention the scheme and timelines."
   },
   {
     "objectID": "posts/2025-11-12-were-live.html",

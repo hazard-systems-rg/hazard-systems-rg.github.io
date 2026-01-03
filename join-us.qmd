@@ -1,0 +1,33 @@
+---
+title: Join Us
+---
+
+We welcome collaborators and applicants interested in **AI-enabled multihazard forecasting,
+early warning systems, and response**.
+
+## What we work on
+- Multihazard and cascading event modelling
+- Machine learning for hazard detection and forecasting
+- Uncertainty-aware prediction and evaluation
+- End-to-end warning pipelines and decision support
+- Open tools, reproducible science, and real-world impact
+
+## Who we are looking for
+### PhD / MSc students
+Strong quantitative background (e.g., ML, statistics, physics, engineering, geoscience) and interest in hazards/resilience.
+
+### Postdocs
+Evidence of independent research, strong writing, and a clear agenda aligned with our themes.
+
+### Research software / engineering
+Experience with ML tooling, data pipelines, and reproducibility.
+
+## How to reach out
+Email **lorenzo.nava@kcl.ac.uk** with:
+- a short paragraph describing your interest,
+- a CV,
+- (optional) a link to papers / GitHub,
+- (optional) 1–2 project ideas.
+
+## Funding
+If you already have (or are pursuing) funding, mention the scheme and timelines.
